@@ -15,6 +15,9 @@ header{
 .button {
   background: #08772d;
 }
+.button:hover, .button:focus {
+  background-color: #075421;
+}
 .home-page h3.title, .custom-page h3.title {
   border-top: 4px solid #08772d;
 }
