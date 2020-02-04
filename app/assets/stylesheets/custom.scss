@@ -27,3 +27,24 @@ a {
 .locale-form .locale-switcher {
   background: #08772d;
 }
+
+@media print, screen and (min-width: 40em){
+  .subnavigation a.is-active {
+    border-bottom: 2px solid #08772d;
+    color: #075421;
+  } 
+}
+
+@media print, screen and (min-width: 40em) {
+  /* line 708, app/assets/stylesheets/layout.scss */
+  .subnavigation a {
+    color: #222;
+    display: block;
+    font-weight: bold;
+    width: auto;
+  }
+  /* line 722, app/assets/stylesheets/layout.scss */
+  .subnavigation a:hover {
+    color: #08772d;
+  }
+}
