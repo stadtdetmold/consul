@@ -346,6 +346,7 @@ a {
   clear: both;
   color: $text-medium;
   display: inline-block;
+  padding-right: $line-height / 2;
 }
 
 .back:not([class^="icon-"]) {
@@ -407,6 +408,10 @@ a {
 
 .pagination .current {
   background: $brand;
+}
+
+.pagination li {
+  display: inline-block;
 }
 
 .truncate-horizontal-text {
@@ -644,6 +649,14 @@ header {
 }
 
 .dropdown.menu > li {
+
+  a {
+    background: none;
+  }
+
+  &.is-active > a {
+    color: #fff;
+  }
 
   &.is-dropdown-submenu-parent > a::after {
     border-color: #fff transparent transparent;
@@ -1076,7 +1089,7 @@ form {
     margin-bottom: $line-height;
   }
 
-  .html-area {
+  .html-area:not(.form-error) {
     height: 272px;
     margin-bottom: $line-height;
 
@@ -2226,7 +2239,6 @@ table {
 .flag-disable,
 .flag-active {
   line-height: 0;
-  vertical-align: sub;
 }
 
 .flag-disable {
@@ -2770,8 +2782,11 @@ table {
     }
 
     a:hover {
-      box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.2);
       text-decoration: none;
+
+      &:not(.see-all) {
+        box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.2);
+      }
 
       img {
         transform: scale(1.1);
