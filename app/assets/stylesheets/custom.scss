@@ -28,6 +28,10 @@ a {
   background: #08772d;
 }
 
+.jumbo, .home-page .background-header, .custom-page .background-header{
+  background: #A8FFA8;
+}
+
 @media print, screen and (min-width: 40em){
   .subnavigation a.is-active {
     border-bottom: 2px solid #08772d;
