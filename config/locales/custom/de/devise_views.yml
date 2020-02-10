@@ -1,0 +1,15 @@
+de:
+  devise_views:
+    organizations:
+      registrations:
+        new:
+          password_label: Passwort (mind. 8 Zeichen)
+    passwords:
+      edit:
+        password_label: Neues Passwort (mind. 8 Zeichen)
+    users:
+      registrations:
+        edit:
+          password_label: Neues Passwort (mind. 8 Zeichen)
+        new:
+          password_label: Neues Passwort (mind. 8 Zeichen)
