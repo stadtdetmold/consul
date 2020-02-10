@@ -26,6 +26,7 @@
       <%= f.email_field :email,     placeholder: t("devise_views.users.registrations.new.email_label") %>
 
       <%= f.password_field :password, autocomplete: "off",
+                           label: t("devise_views.users.registrations.new.password_label"),
                            placeholder: t("devise_views.users.registrations.new.password_label") %>
 
       <%= f.password_field :password_confirmation, autocomplete: "off",
