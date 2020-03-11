@@ -68,7 +68,7 @@ en:
       poll_description: Polls description
       poll_description_description: Detailed description of the survey feature
       poll_link: Additional information link
-      poll_link_description: Añade un enlace de información adicional a la funcionalidad de encuestas del panel de control
+      poll_link_description: Adds an additional information link to survey feature
       email_short_title: Email
       email_short_title_description: 'Short description of the email feature. Allows users to send an email to promote their proposal. You can find all the content of this email in "/app/views/dashboard/mailer/forward.html.erb"'
       email_description: Email description
@@ -127,6 +127,9 @@ en:
       valuation_comment_notification: "Valuation comment notification"
       valuation_comment_notification_description: "Send an email to all associated users except valuation commenter to budget investment when a new valuation comment is created"
       graphql_api: "GraphQL API"
+      dashboard:
+        notification_emails: "Dashboard notification emails"
+        notification_emails_description: "Enable sending dashboard notification emails to proposal's authors"
     remote_census:
       general:
         endpoint: "Endpoint"
