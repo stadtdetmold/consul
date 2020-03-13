@@ -106,12 +106,12 @@ de:
         relevance: Relevanz
         recommendations: Empfehlungen
       recommendations:
-        without_results: Es gibt keine Debatten, die Ihren Interessen entsprechen
+        without_results: Es gibt keine Diskussionen, die Ihren Interessen entsprechen
         without_interests: Folgen Sie Vorschlägen, sodass wir Ihnen Empfehlungen geben können
         disable: "Empfehlungen für Diskussionen werden nicht mehr angezeigt, wenn sie diese ablehnen. Sie können auf der 'Mein Benutzerkonto'-Seite wieder aktiviert werden"
         actions:
           success: "Empfehlungen für Diskussionen sind jetzt für dieses Konto deaktiviert"
-          error: "Ein Fehler ist aufgetreten. Bitte gehen Sie zur 'Ihr Benutzerkonto'-Seite um Debatten-Empfehlungen manuell abzuschalten"
+          error: "Ein Fehler ist aufgetreten. Bitte gehen Sie zur 'Ihr Benutzerkonto'-Seite um Diskussions-Empfehlungen manuell abzuschalten"
       search_form:
         button: Suche
         placeholder: Suche Diskussionen...
@@ -530,7 +530,7 @@ de:
       access_community: Treten Sie der Community bei
       latest_activity: "Letzte Aktivitäten in der Gemeinschaft: %{at}"
       participants: Teilnehmer*innen
-      debates: Debatten
+      debates: Diskussionen
       comments: Kommentare
       latest_comments: Letzte Nachrichten
     messages:
@@ -730,9 +730,9 @@ de:
     suggest:
       debate:
         found:
-          one: "Es gibt eine Debatte mit dem Begriff '%{query}', Sie können daran teilnehmen, anstatt eine neue zu eröffnen."
-          other: "Es gibt Debatten mit dem Begriff '%{query}', Sie können an diesen teilnehmen, anstatt eine neue zu eröffnen."
-        message: "Sie sehen %{limit} %{count} Debatten mit dem Begriff \"%{query}\""
+          one: "Es gibt eine Diskussion mit dem Begriff '%{query}', Sie können daran teilnehmen, anstatt eine neue zu eröffnen."
+          other: "Es gibt Diskussionen mit dem Begriff '%{query}', Sie können an diesen teilnehmen, anstatt eine neue zu eröffnen."
+        message: "Sie sehen %{limit} %{count} Diskussionen mit dem Begriff \"%{query}\""
         see_all: "Alle anzeigen"
       budget_investment:
         found:
@@ -833,7 +833,7 @@ de:
           other: "%{count} Kommentare"
         debates:
           one: 1 Diskussion
-          other: "%{count} Debatten"
+          other: "%{count} Diskussionen"
         proposals:
           one: 1 Antrag
           other: "%{count} Anträge"
@@ -872,10 +872,10 @@ de:
   welcome:
     feed:
       most_active:
-        debates: "Aktivste Debatten"
+        debates: "Aktivste Diskussionen"
         proposals: "Aktivste Vorschläge"
         processes: "Laufende Verfahren"
-      see_all_debates: Alle Debatten anzeigen
+      see_all_debates: Alle Diskussionen anzeigen
       see_all_proposals: Alle Vorschläge anzeigen
       see_all_processes: Alle Beteiligungsverfahren anzeigen
       process_label: Beteiligungsverfahren
@@ -884,7 +884,7 @@ de:
       title: Hervorgehoben
     recommended:
       title: Empfehlungen, die Sie vielleicht interessieren
-      help: "Diese Empfehlungen werden durch die Schlagwörter der Debatten und Anträge, denen Sie folgen, generiert."
+      help: "Diese Empfehlungen werden durch die Schlagwörter der Diskussionen und Anträge, denen Sie folgen, generiert."
       debates:
         title: Empfohlene Diskussionen
         btn_text_link: Alle empfohlenen Diskussionen

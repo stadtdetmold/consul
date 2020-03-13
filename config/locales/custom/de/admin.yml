@@ -414,8 +414,8 @@
       index:
         id: ID
         author: Autor
-        title: Debatten
-        no_debates: Keine Debatte vorhanden.
+        title: Diskussionen
+        no_debates: Keine Diskussion vorhanden.
     hidden_debates:
       index:
         filter: Filter
@@ -423,8 +423,8 @@
           all: Alle
           with_confirmed_hide: Bestätigt
           without_confirmed_hide: Ausstehend
-        title: Verborgene Debatten
-        no_hidden_debates: Keine verborgenen Debatten vorhanden.
+        title: Verborgene Diskussionen
+        no_hidden_debates: Keine verborgenen Diskussionen vorhanden.
     documents:
       new:
         title: "Upload Dokument"
@@ -692,7 +692,7 @@
       dashboard: Vorschläge Dashboard
       administrator_tasks: Beantragte Ressourcen
       dashboard_actions: Ressourcen und Aktionen
-      debates: "Debatten"
+      debates: "Diskussionen"
       comments: "Kommentare"
       local_census_records: Verwaltung des lokalen Registers
     administrators:
@@ -1279,7 +1279,7 @@
         placeholder: Suche Vorschläge nach Titel, Code, Beschreibung oder Frage
       debate_search:
         button: Suche
-        placeholder: Suche Debatten per Titel oder Beschreibung
+        placeholder: Suche Diskussion per Titel oder Beschreibung
       user_search:
         button: Suche
         placeholder: Suche Benutzer*in nach Name oder E-Mail
@@ -1386,7 +1386,7 @@
         incomplete_verifications: Unvollständige Verifizierungen
         polls: Umfragen
       graph:
-        debate_created: Debatten
+        debate_created: Diskussionen
         visit: Besuche
         level_2_user: Benutzer*innen auf Stufe 2
         proposal_created: Bürgervorschläge

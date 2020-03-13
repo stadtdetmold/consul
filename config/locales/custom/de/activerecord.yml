@@ -28,7 +28,7 @@ de:
         one: "Kommentar"
         other: "Kommentare"
       debate:
-        one: "Debatte"
+        one: "Diskussion"
         other: "Diskussionen"
       tag:
         one: "Tag"
@@ -222,8 +222,8 @@ de:
         terms_of_service: "Nutzungsbedingungen"
         title: "Titel"
       debate/translation:
-        title: "Titel der Debatte"
-        description: "Initialer Debattenbeitrag"
+        title: "Titel der Diskussion"
+        description: "Erster Diskussionsbeitrag"
       proposal:
         author: "Autor"
         title: "Titel"
@@ -257,7 +257,7 @@ de:
         phone_number: "Telefonnummer"
         public_activity: "Meine Liste an Aktivitäten öffentlich zugänglich machen"
         public_interests: "Die Bezeichnungen der Elemente denen ich folge öffentlich zugänglich halten"
-        recommended_debates: "Debatten-Empfehlungen anzeigen"
+        recommended_debates: "Diskussions-Empfehlungen anzeigen"
         recommended_proposals: "Antrags-Empfehlungen anzeigen"
         redeemable_code: "Bestätigungscode per Post (optional)"
       direct_message:

@@ -68,7 +68,7 @@ de:
           help: Hilfe zu Beteiligungsverfahren
         section_footer:
           title: Hilfe zu Beteiligungsverfahren
-          description: Nehmen Sie an Debatten und Verfahren teil, bevor eine Verordnung oder eine kommunale Handlung genehmigt wird. Ihre Meinung wird vom Stadtrat berücksichtigt.
+          description: Nehmen Sie an Diskussionen und Verfahren teil, bevor eine Verordnung oder eine kommunale Handlung genehmigt wird. Ihre Meinung wird vom Stadtrat berücksichtigt.
       phase_not_open:
         not_open: Diese Phase ist noch nicht geöffnet
       phase_empty:

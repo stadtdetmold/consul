@@ -68,7 +68,7 @@ de:
       select_user: Nutzer wählen
     permissions:
       create_proposals: Vorschlag erstellen
-      debates: In Debatten engagieren
+      debates: In Diskussionen engagieren
       support_proposals: Vorschläge unterstützen
       vote_proposals: Über Vorschläge abstimmen
     print:
