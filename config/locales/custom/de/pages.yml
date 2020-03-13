@@ -102,7 +102,7 @@ de:
               page_column: Bürgerhaushalte
             - 
               key_column: 5
-              page_column: Beteiligungsverfahren:
+              page_column: Beteiligungsverfahren
         browser_table:
           description: "Abhängig vom Betriebssystem und dem verwendeten Browser lautet die Tastenkombination wie folgt:"
           caption: Tastenkombination je nach Betriebssystem und Browser
