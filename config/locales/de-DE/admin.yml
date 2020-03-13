@@ -1008,7 +1008,7 @@ de:
         dates: "Datum"
         start_date: "Anfangsdatum"
         closing_date: "Einsendeschluss"
-        geozone_restricted: "Beschränkt auf Bezirke"
+        geozone_restricted: "Beschränkt auf Ortsteile"
       new:
         title: "Neue Abstimmung"
         submit_button: "Abstimmung erstellen"
@@ -1302,8 +1302,8 @@ de:
       results_and_stats_reminder: "Durch das Markieren dieses Kontrollkästchens werden die Resultate und/oder Statistiken dieser Abstimmung öffentlich abrufbar und für alle Benutzer*innen sichtbar."
     geozones:
       index:
-        title: Bezirke
-        create: Bezirk erstellen
+        title: Ortsteile
+        create: Ortsteil erstellen
         edit: Bearbeiten
         delete: Löschen
       geozone:
@@ -1316,14 +1316,14 @@ de:
       edit:
         form:
           submit_button: Änderungen speichern
-        editing: Bezirk bearbeiten
+        editing: Ortsteil bearbeiten
         back: Zurück
       new:
         back: Zurück
-        creating: Bezirk anlegen
+        creating: Ortsteil anlegen
       delete:
-        success: Bezirk erfolgreich gelöscht
-        error: Dieser Bezirk kann nicht gelöscht werden, da ihm bereits Elemente zugeordnet sind
+        success: Ortsteil erfolgreich gelöscht
+        error: Dieser Ortsteil kann nicht gelöscht werden, da ihm bereits Elemente zugeordnet sind
     signature_sheets:
       author: Autor
       created_at: Erstellungsdatum
@@ -1400,7 +1400,7 @@ de:
         vote_count: Stimmen
         participant_count: Teilnehmer*innen
         votes_per_heading: Stimmen pro Vorschlag
-        participants_per_district: Teilnehmer*innen pro Bezirk
+        participants_per_district: Teilnehmer*innen pro Ortsteil
       budget_supporting:
         title: "Unterstützungsphase Statistiken"
         headings: Rubriken
